@@ -1,0 +1,26 @@
+th {
+    font-size:50px;
+}
+
+.react-bs-table-container {
+    width: 500px;
+}
+
+.Table-header {
+    background-color: #ccc;
+    color: blue;
+    padding: 10px;
+    text-align: left;
+}
+ 
+.GeorgeMichael-Row {
+    background-color: plum;
+}
+
+/*  
+BootstrapTable
+{
+    background-color: plum;
+    width: 100px;
+    font-size:10000px;
+} */
